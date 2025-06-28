@@ -56,11 +56,6 @@ Gamma correction and adaptive brightness normalization.
 
 Support for additional machine learning enhancements using CNNs.
 
-📊 Performance Summary
-Condition	Lane Detection Accuracy	Traffic Signal Accuracy
-Daylight	94.2%	91.9%
-Night	82.1%	82.8%
-Rainy Weather	78.5%	80.2%
 
 📌 Future Improvements
 Integrate deep learning models for robust classification (e.g., YOLOv8, SSD).
